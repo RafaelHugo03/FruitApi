@@ -7,8 +7,6 @@ Inserir dados manualmente no seu banco postgres
 dotnet run
 ```
 # Inicializar Frontend
-
-## Project setup
 ```
 cd \FruitApi\frontend
 npm install
